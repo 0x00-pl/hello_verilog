@@ -7,6 +7,6 @@ module a(
       s = #10 1'b1;
       s = #20 1'b0;
       s = #10 1'b1;
-      s = #20 1'b0;
+      s = #30 1'b0;
    end
 endmodule // a

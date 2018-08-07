@@ -1,7 +1,7 @@
  
 module test;
    initial begin
-      $dumpfile("a.s.vcd");
+      $dumpfile("vvp/a.vcd");
       $dumpvars(0, s);
    end
 
